@@ -1,0 +1,16 @@
+@font-face {
+    font-family: myfont;
+    src: url(AL-Mohanad-Extra-Bold.ttf);
+  }
+
+  body{
+    font-family:myfont;
+    font-size: larger;
+    color: red;
+  }
+  thead{
+    background-color:blue;
+    color: brown;
+    
+    
+  }
